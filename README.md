@@ -1,12 +1,12 @@
 # Hey, I'm Fede Álvarez 🍕
 
-[![Website](https://img.shields.io/website?label=fedealvarez.dev&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://fedealvarez.dev)
-
 ## I'm a web-dev and photographer/designer
 
 -   🧉 Looking for a job
 -   🧨 Currently learning everything
 -   📷 Love photography
+
+[![Website](https://img.shields.io/website?label=fedealvarez.dev&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://fedealvarez.dev)
 
 ## Languages & tools
 
@@ -20,7 +20,6 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)<br>
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)<br>
 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
